@@ -1,0 +1,21 @@
+body {
+  background-color: #32373a;
+}
+.card img {
+  width: 150px;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  border-radius: 30%;
+}
+.main img {
+  width: 300px;
+  height: auto;
+}
+.card {
+  width: 370px;
+  background-color: #32373a !important;
+  border: none;
+}
+.list-group-item {
+  background-color: #32373a !important;
+}
